@@ -1,9 +1,13 @@
-# YOUN TAE SEOP🔥
+# YOON TAE SEOP🔥
 ##### Everything is happening for you, Not to you
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yountaeseop&show_icons=true&theme=radical)[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yountae0214)](https://solved.ac/yountae0214/)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yountaeseop)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yountaeseop&show_icons=true&theme=defalut)[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yountae0214)](https://solved.ac/yountae0214/)
+
+# TECH STACK📱
+java
+kotlin
+
 <!--
 **yountaeseop/yountaeseop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
