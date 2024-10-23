@@ -4,7 +4,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yountae0214)](https://solved.ac/yountae0214/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username={yountaeseop}&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yountaeseop&show_icons=true&theme=radical)
 
 <!--
 **yountaeseop/yountaeseop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
