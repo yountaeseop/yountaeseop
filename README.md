@@ -2,7 +2,7 @@
 ##### Everything is happening for you, Not to you
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bonfireteddy&show_icons=true&theme=defalut) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yountae0214)](https://solved.ac/yountae0214/)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bonfireteddy&show_icons=true&theme=defalut)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yountae0214)](https://solved.ac/yountae0214/)
 
 # TECH STACK📱
 java
